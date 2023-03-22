@@ -15,4 +15,4 @@ for arq in arquivos:
   textoXML.write('\n')
 
 textoXML.close()
-#caso os arquivos XMLs forem diferentes poderá ocorrer das informações ficarem em colunas diferentes.
+#caso os arquivos XMLs forem diferentes existe o potencial das informações ficarem em colunas diferentes.
